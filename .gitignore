@@ -1,0 +1,20 @@
+# Environments
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+.venv/
+venv/
+
+# Demo artifacts
+demo_test.txt
+demo.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
